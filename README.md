@@ -1,6 +1,6 @@
 # JS-Completed-Assignments
 
-HTML & CSS Completed Assignments Batch 6 (11:15)
+JS Completed Assignments Batch 6 (11:15)
 
 Name : Moeez Ahmed
 
